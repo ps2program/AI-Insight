@@ -1,0 +1,5 @@
+flask
+deepxde
+tensorflow
+numpy
+matplotlib
